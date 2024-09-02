@@ -1,6 +1,6 @@
 beautifulsoup4
 pyppeteer
-fastapi[all]
+fastapi
 uvicorn
 python-dotenv
 groq
@@ -8,5 +8,4 @@ boto3
 datetime
 requests
 Pillow
-sentencepiece
 transformers
